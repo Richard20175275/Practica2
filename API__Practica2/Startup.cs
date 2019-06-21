@@ -30,6 +30,8 @@ namespace API__Practica2
             var connection = Configuration.GetConnectionString("Dev");
             services.AddDbContext<StudentDbContext>(options => options.UseSqlServer(connection));
 
+            services.AddTransient<IStudentService, StudentServices>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
