@@ -1,0 +1,6 @@
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.csprojAssemblyReference.cache
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.RazorAssemblyInfo.cache
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.RazorAssemblyInfo.cs
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.AssemblyInfoInputs.cache
+C:\Users\Richa\source\repos\API__Practica2\obj\Debug\netcoreapp2.1\API__Practica2.AssemblyInfo.cs
